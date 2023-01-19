@@ -1,0 +1,10 @@
+#STRUCTURE OF OUR LDAP TREE
+
+dn: ou=security,dc=insat,dc=tn
+objectClass: organizationalUnit
+ou: security
+
+dn: cn=security-group,ou=security,dc=insat,dc=tn
+objectClass: posixGroup
+cn: security-group
+gidNumber: 500
