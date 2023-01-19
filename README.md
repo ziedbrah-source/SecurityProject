@@ -6,7 +6,7 @@ LIBRARIES USED: (the important ones)
 TKINTER,OPENLDAP,OPENSSL,RABBITMQ AMPQ
 
 Special thanks to : 
-Mr Yousffi Souhaieb for LDAP/RSA/CA course,
+Mr Yousffi Souhaieb for LDAP/ASYMMETRIC,ASYMMETRIC encryption course,
 Mr Sofiane ouni for distributed systems and rabbitMQ course.
 
 
